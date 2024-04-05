@@ -1,0 +1,19 @@
+{
+  "name": "sd-jwt-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sd-jwt/core": "^0.6.1",
+    "@sd-jwt/crypto-nodejs": "^0.6.1",
+    "@sd-jwt/types": "^0.6.1",
+    "tsx": "^4.7.2",
+    "typescript": "^5.4.4"
+  }
+}
